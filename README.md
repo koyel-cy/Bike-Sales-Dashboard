@@ -1,6 +1,6 @@
 # Interactive Bike Purchase Analysis Dashboard
 
-This project involves crafting an intuitive dashboard with interactive filtering options based on marital status, region, and education levels. The dataset employed contains information about individuals and their bike-purchasing tendencies, factoring in variables like income, commute distance, and age. The overarching objective is to unveil correlations and patterns that steer bike purchase decisions.
+ The dataset employed contains information about individuals and their bike-purchasing tendencies, factoring in variables like income, commute distance, and age. The overarching objective is to unveil correlations and patterns that steer bike purchase decisions.
 
 ## Dashboard Creation:
 
